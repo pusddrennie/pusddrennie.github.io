@@ -197,7 +197,7 @@ function get_graph_args(uid){
                 'data': data, 
                 'node': null, 
                 'link': null,
-                'coalesce_force': '-5'
+                'coalesce_force': '-75'
             }
         return args
 }
